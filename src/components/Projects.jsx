@@ -30,7 +30,7 @@ const projects = [
     features: [
       'Mobile-first responsive layout',
       'Clear information hierarchy',
-      'Accessibility-focused design',
+      'Accessibility-focused design(WCAG)',
       'Interactive announcements section',
       'Staff directory & course listings',
     ],
